@@ -1,4 +1,4 @@
-# fatdog - simple configs for lazy sysadmins
+# OneShot - simple configs for lazy sysadmins
 Collection of scripts for simple one-shot installs, no complex provisioning, just simple stuff.
 
 Hierarchy:
